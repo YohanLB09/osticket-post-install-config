@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" height="100%" width="100%" alt="Setting Up in Azure"/>
 <br />
 
-<h1>osTicket: Prerequisites and Installation</h1>
+<h1>osTicket - Post-Install Configuration</h1>
 
 <h2>Description</h2>
 In this guided lab, we will setup an osTicket system from scratch via a Windows 10 Virtual Machine created in Azure.<br/>
