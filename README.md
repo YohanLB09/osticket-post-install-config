@@ -139,7 +139,7 @@ https://docs.osticket.com/en/latest/Admin/Agents/Teams.html
 
 -Create a name, email address, username.
 
--To set the password, click on "Set Password" -> uncheck the box for "Send the agent a password reset email" -> set the password.
+-To set the password, click on "Set Password" -> uncheck the box for "Send the agent a password reset email" -> uncheck the box for "Require password change at next login" -> click on "Set".
 
 -Under the "Access" tab, assign the first agent to the "SysAdmins" Primary Department, and select "rootuser" for the Role.
 
