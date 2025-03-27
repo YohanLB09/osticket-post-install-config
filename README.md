@@ -51,7 +51,7 @@ It's important to distinguish between the admin panel and the agent panel; the a
 
 <h3>Step 2: Configure Roles</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/NKevdUm.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 -Navigate to the Admin panel, and click on "Admin Panel" -> "Agents" -> "Roles"
@@ -62,7 +62,7 @@ Read more about roles here: https://docs.osticket.com/en/latest/Admin/Agents/Rol
 <br />
 
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/CRGHMGM.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 -To create a new role, click on "Add New Role".
