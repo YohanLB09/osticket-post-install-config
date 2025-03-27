@@ -203,7 +203,7 @@ Read more about SLA here: https://docs.osticket.com/en/latest/Admin/Manage/SLA%2
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
--From within the Admin panel, navigate to the "Help Topics" tab Configure Help Topics -> click on "Manage" -> "Help Topics" -> "Add New Help Topic".
+-From within the Admin panel, under the "Manage" tab, click on "Help Topics" -> "Add New Help Topic".
 
 -Add the following help topics (leave other configurations as default):
 Topic: "Business Critical Outage" / Parent Type: "Report a Problem"
