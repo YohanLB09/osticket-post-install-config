@@ -180,7 +180,7 @@ https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html
 
 <h3>Step 8: Configure SLA</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/p2SLTtV.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 -Navigate back to the Admin panel -> click on the "Manage" tab -> "SLA"-> "Add New SLA Plan".
@@ -200,7 +200,7 @@ Read more about SLA here: https://docs.osticket.com/en/latest/Admin/Manage/SLA%2
 
 <h3>Step 9: Configure Help Topics</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/xpvIE46.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 -From within the Admin panel, under the "Manage" tab, click on "Help Topics" -> "Add New Help Topic".
@@ -217,16 +217,6 @@ Configuring Help Topics in osTicket involves setting up predefined troubleshooti
 <br />
 
 
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
 
 
 <h2>osTicket Configuraton Setup Completed!</h2>
