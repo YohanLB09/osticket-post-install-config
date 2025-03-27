@@ -22,36 +22,22 @@ In this guided lab, we will configure osTicket settings, so it can be used prope
 
 <h2>High-Level Steps</h2>
 
-- Step 1: Create a Resource Group and a Virtual Machine
-- Step 2: Connect to the Windows Virtual Machine
-- Step 3: Download and Extract the osTicket installation folder
-- Step 4: Install and Enable IIS with CGI
-- Step 5: Install the PHP Manager
-- Step 6: Install the Rewrite Module
-- Step 7: Create a directory for PHP files
-- Step 8: Extract PHP files
-- Step 9: Install a Microsoft Visual C++ Redistributable
-- Step 10: Install MySQL
-- Step 11: Configure MySQL
-- Step 12: Register PHP in IIS
-- Step 13: Reload IIS
-- Step 14: Install osTicket
-- Step 15: Load the osTicket Web Site
-- Step 16: Enable osTicket extensions
-- Step 17: Rename a specific configuration file
-- Step 18: Assign permissions to the configuration file
-- Step 19: Install a HeidiSQL database
-- Step 20: Configure the HeidiSQL database
-- Step 21: Configure basic osTicket settings
-- Step 22: Login to osTicket 
-- Step 23: Lab cleanup 
+- Step 1: Login to osTicket
+- Step 2: Configure Roles
+- Step 3: Configure Departments
+- Step 4: Configure a Team
+- Step 5: Configure ticket creation Permissions
+- Step 6: Configure Agents
+- Step 7: Configure Users
+- Step 8: Configure SLA
+- Step 9: Configure Help Topics
 
 
-<h2>Installation Steps</h2>
+<h2>Configuration Steps</h2>
 
-<h3>Step 1: Create a Windows a Resource Group and a Virtual Machine</h3>
+<h3>Step 1: Login to osTicket</h3>
 <p>
-<img src="https://i.imgur.com/gNaBAwe.png" height="100%" width="100%" alt="installation step"/>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 -You need to create a Resource Group prior to configuring a Virtual Machine. Check out this guided lab if needed: https://github.com/YohanLB09/azure-vm-network-analysis-part1-prereqs. 
@@ -65,9 +51,93 @@ In this guided lab, we will configure osTicket settings, so it can be used prope
 
 
 
-<h3></h3>
+<h3>Step 2: Configure Roles</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+swfddsfgdsag
+</p>
+<br />
+
+
+
+
+<h3>Step 3: Configure Departments</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+swfddsfgdsag
+</p>
+<br />
+
+
+
+
+<h3>Step 4: Configure a Team</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+swfddsfgdsag
+</p>
+<br />
+
+
+
+
+<h3>Step 5: Configure ticket creation Permissions</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+swfddsfgdsag
+</p>
+<br />
+
+
+
+
+<h3>Step 6: Configure Agents</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+swfddsfgdsag
+</p>
+<br />
+
+
+
+
+<h3>Step 7: Configure Users</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+swfddsfgdsag
+</p>
+<br />
+
+
+
+
+<h3>Step 8: Configure SLA</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+swfddsfgdsag
+</p>
+<br />
+
+
+
+
+<h3>Step 9: Configure Help Topics</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 swfddsfgdsag
@@ -79,7 +149,7 @@ swfddsfgdsag
 
 <h3></h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 swfddsfgdsag
@@ -91,7 +161,7 @@ swfddsfgdsag
 
 <h3></h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 swfddsfgdsag
@@ -103,7 +173,7 @@ swfddsfgdsag
 
 <h3></h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 swfddsfgdsag
@@ -115,7 +185,7 @@ swfddsfgdsag
 
 <h3></h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 swfddsfgdsag
@@ -127,7 +197,7 @@ swfddsfgdsag
 
 <h3></h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 swfddsfgdsag
@@ -139,7 +209,7 @@ swfddsfgdsag
 
 <h3></h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 swfddsfgdsag
@@ -151,91 +221,7 @@ swfddsfgdsag
 
 <h3></h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
-
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
-
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
-
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
-
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
-
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
-
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
-
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 swfddsfgdsag
