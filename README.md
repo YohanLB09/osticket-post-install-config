@@ -78,7 +78,7 @@ Configuring a Role specifies what permissions the agent has access to for handli
 
 <h3>Step 3: Configure Departments</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/ggzYRkR.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 -From within the Admin panel, navigate to "Agents" -> click on "Add New Departments".
@@ -98,7 +98,7 @@ https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
 
 <h3>Step 4: Configure a Team</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/zzvTwnX.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 -From within the Admin panel, navigate to "Agents" -> click on "Teams" -> "Add New Team".
@@ -118,7 +118,7 @@ https://docs.osticket.com/en/latest/Admin/Agents/Teams.html
 
 <h3>Step 5: Verify permissions for ticket creation</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/1bMMMMk.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 -From within the Admin panel, navigate to the "Settings" tab -> click on "Users".
