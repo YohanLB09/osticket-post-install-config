@@ -5,7 +5,7 @@
 <h1>osTicket - Post-Install Configuration</h1>
 
 <h2>Description</h2>
-In this guided lab, we will setup an osTicket system from scratch via a Windows 10 Virtual Machine created in Azure.<br/>
+In this guided lab, we will configure osTicket settings, so it can be used properly as a ticketing system. It consists of setting up multiple agents along with their departments, roles, and permissions. As well as, configuring SLAs (Service Level Agreements), help topics, and users.<br/>
 <br/>
 
 <h2>Environments and Technologies</h2>
