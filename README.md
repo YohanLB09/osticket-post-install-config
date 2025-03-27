@@ -67,7 +67,7 @@ Read more about roles here: https://docs.osticket.com/en/latest/Admin/Agents/Rol
 <p>
 -To create a new role, click on "Add New Role".
 
--Specify a name for a new privilege role (ex: rootuser) -> navigate to the "Permissions" tab, check all boxes to assign all permissions for "Tickets", "Tasks", and "Knowledgebase" -> click on "Add Role".
+-Specify a name for a new privilege role (ex: Rootuser) -> navigate to the "Permissions" tab, check all boxes to assign all permissions for "Tickets", "Tasks", and "Knowledgebase" -> click on "Add Role".
 
 Configuring a Role specifies what permissions the agent has access to for handling tickets, tasks, and knowledgebase. 
 </p>
