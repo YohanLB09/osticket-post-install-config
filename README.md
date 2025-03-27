@@ -132,7 +132,7 @@ https://docs.osticket.com/en/latest/Admin/Agents/Teams.html
 
 <h3>Step 6: Configure Agents</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/TAZviNx.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 -From within the admin panel, navigate to the "Agents" tab -> click on "Add New Agent".
@@ -158,7 +158,7 @@ https://docs.osticket.com/en/latest/Admin/Agents/Agents.html
 
 <h3>Step 7: Configure Users</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/dqAQD4n.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 -Navigate to the Agent Panel -> "Users" tab -> click on "Add User".
