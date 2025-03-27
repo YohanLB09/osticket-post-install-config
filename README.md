@@ -161,7 +161,17 @@ https://docs.osticket.com/en/latest/Admin/Agents/Agents.html
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
-swfddsfgdsag
+-Navigate to the Agent Panel -> "Users" tab -> click on "Add User".
+
+-Create an email address and a full name (just the first name is enough for this lab).
+
+-Click on "Add User".
+
+-Create a second user.
+
+Configuring a user allows them to create tickets, check a ticket's status, and interact with support agents.
+Read more about Agents here: 
+https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html
 </p>
 <br />
 
@@ -173,7 +183,15 @@ swfddsfgdsag
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
-swfddsfgdsag
+-Navigate back to the Admin panel -> click on the "Manage" tab -> "SLA"-> "Add New SLA Plan".
+
+-Specify the name, grace period, and schedule for 3 different SLA plans like so (leave other configurations as default):
+Name: "Sev-A" / Grace Period: "1 hour" / Schedule: "24/7" -> click on "Add plan".
+Name: "Sev-B" / Grace Period: "4 hours" / Schedule: "24/7" -> click on "Add plan".
+Name: "Sev-C" / Grace Period: "8 hours" / Schedule: Business Hours -> click on "Add plan".
+
+Configuring SLA (Service Level Agreements) allows to specify the time and response objectives for tickets based on priority, department, or help topic.
+Read more about SLA here: https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html
 </p>
 <br />
 
@@ -185,7 +203,16 @@ swfddsfgdsag
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
-swfddsfgdsag
+-From within the Admin panel, navigate to the "Help Topics" tab Configure Help Topics -> click on "Manage" -> "Help Topics" -> "Add New Help Topic".
+
+-Add the following help topics (leave other configurations as default):
+Topic: "Business Critical Outage" / Parent Type: "Report a Problem"
+Topic: "Personal Computer Issues" / Parent Type: "Report a Problem"
+Topic: "Equipment Request" / Parent Type: "General Inquiry"
+Topic: "Password Reset" / Parent Type: "Report a Problem"
+Topic: "Other" / Parent Type: "General Inquiry"
+
+Configuring Help Topics in osTicket involves setting up predefined troubleshooting subjects that guide users when creating a ticket. This helps structure the ticketing process by allowing users to select the nature of their issue, ensuring it is categorized correctly without needing to understand the internal workflow of the support team.
 </p>
 <br />
 
@@ -216,59 +243,4 @@ swfddsfgdsag
 
 
 
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
 
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
-
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
-
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
-
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
-</p>
-<p>
-swfddsfgdsag
-</p>
-<br />
