@@ -186,9 +186,9 @@ https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html
 -Navigate back to the Admin panel -> click on the "Manage" tab -> "SLA"-> "Add New SLA Plan".
 
 -Specify the name, grace period (in hours), and schedule for 3 different SLA plans like so (leave other configurations as default):
-Name: "Sev-A" / Grace Period: "1" / Schedule: "24/7" -> click on "Add Plan".
-Name: "Sev-B" / Grace Period: "4" / Schedule: "24/7" -> click on "Add Plan".
-Name: "Sev-C" / Grace Period: "8" / Schedule: Business Hours -> click on "Add Plan".
+1) Name: "Sev-A" / Grace Period: "1" / Schedule: "24/7" -> click on "Add Plan".
+2) Name: "Sev-B" / Grace Period: "4" / Schedule: "24/7" -> click on "Add Plan".
+3) Name: "Sev-C" / Grace Period: "8" / Schedule: Business Hours -> click on "Add Plan".
 
 Configuring SLA (Service Level Agreements) allows to specify the time and response objectives for tickets based on priority, department, or help topic.
 Read more about SLA here: https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html
@@ -206,11 +206,11 @@ Read more about SLA here: https://docs.osticket.com/en/latest/Admin/Manage/SLA%2
 -From within the Admin panel, under the "Manage" tab, click on "Help Topics" -> "Add New Help Topic".
 
 -Add the following help topics (leave other configurations as default):
-Topic: "Business Critical Outage" / Parent Type: "Report a Problem"
-Topic: "Personal Computer Issues" / Parent Type: "Report a Problem"
-Topic: "Equipment Request" / Parent Type: "General Inquiry"
-Topic: "Password Reset" / Parent Type: "Report a Problem"
-Topic: "Other" / Parent Type: "General Inquiry"
+1) Topic: "Business Critical Outage" / Parent Type: "Report a Problem"
+2) Topic: "Personal Computer Issues" / Parent Type: "Report a Problem"
+3) Topic: "Equipment Request" / Parent Type: "General Inquiry"
+4) Topic: "Password Reset" / Parent Type: "Report a Problem"
+5) Topic: "Other" / Parent Type: "General Inquiry"
 
 Configuring Help Topics in osTicket involves setting up predefined troubleshooting subjects that guide users when creating a ticket. This helps structure the ticketing process by allowing users to select the nature of their issue, ensuring it is categorized correctly without needing to understand the internal workflow of the support team.
 </p>
