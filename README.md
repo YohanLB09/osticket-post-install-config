@@ -231,7 +231,7 @@ swfddsfgdsag
 
 <h2>osTicket Configuraton Setup Completed!</h2>
 
-<b>We've successfully set up multiple agents with their respective departments, roles, and permissions. Additionally, we've configured SLAs (Service Level Agreements), Help Topics, and users. In the next lab, we will create and simulate different ticket handling scenarios using multiple agents and users. Next lab: (link)</b>
+<b>We've successfully set up multiple agents with their respective departments, roles, and permissions. Additionally, we've configured SLAs (Service Level Agreements), help topics, and users. In the next lab, we will create and simulate different ticket handling scenarios using multiple agents and users. Next lab: (link)</b>
 <br />
 <br />
 </p>
