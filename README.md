@@ -26,7 +26,7 @@ In this guided lab, we will configure osTicket settings, so it can be used prope
 - Step 2: Configure Roles
 - Step 3: Configure Departments
 - Step 4: Configure a Team
-- Step 5: Configure ticket creation Permissions
+- Step 5: Verify permissions for ticket creation
 - Step 6: Configure Agents
 - Step 7: Configure Users
 - Step 8: Configure SLA
@@ -40,11 +40,9 @@ In this guided lab, we will configure osTicket settings, so it can be used prope
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
--You need to create a Resource Group prior to configuring a Virtual Machine. Check out this guided lab if needed: https://github.com/YohanLB09/azure-vm-network-analysis-part1-prereqs. 
+-Back in your Windows VM, login to the admin/agent portal of osTicket: http://localhost/osTicket/scp/login.php. 
 
--If you know how to create both, just remember to use the "Windows 10 Pro version 22H2" image, and at least 2 vCPUs and 8 GiB of memory.
-
--Also, make sure you remember the credentials to connect to the Windows VM (use Notepad).
+It's important to distinguish between the admin panel and the agent panel; the admin panel allows to configure back-end configurations and management while the agent panel is where support agents handle tickets.
 </p>
 <br />
 
@@ -56,7 +54,22 @@ In this guided lab, we will configure osTicket settings, so it can be used prope
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
-swfddsfgdsag
+-Navigate to the Admin panel, and click on "Admin Panel" -> "Agents" -> "Roles"
+
+From here, you can explore the different roles and set of permissions assigned to each role.
+Read more about roles here: https://docs.osticket.com/en/latest/Admin/Agents/Roles.html
+</p>
+<br />
+
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+-To create a new role, click on "Add New Role".
+
+-Specify a name for a new privilege role (ex: rootuser) -> navigate to the "Permissions" tab, check all boxes to assign all permissions for "Tickets", "Tasks", and "Knowledgebase" -> click on "Add Role".
+
+Configuring a Role specifies what permissions the agent has access to for handling tickets, tasks, and knowledgebase. 
 </p>
 <br />
 
@@ -68,7 +81,15 @@ swfddsfgdsag
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
-swfddsfgdsag
+-From within the Admin panel, navigate to "Agents" -> click on "Add New Departments".
+
+-Under the "Settings" tab, specify a name for the department (ex: SysAdmins), leave all other configurations as default (for now).
+
+-Click on "Create Dept".
+
+Configuring a Department in osTicket determines which types of tickets the agents in that department will handle. It ensures that tickets are routed to the right team based on their category.
+Read more about Departments here: 
+https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
 </p>
 <br />
 
@@ -80,19 +101,29 @@ swfddsfgdsag
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
-swfddsfgdsag
+-From within the Admin panel, navigate to "Agents" -> click on "Teams" -> "Add New Team".
+
+-Under the "Team" tab, create a name (ex: Level II Support). Leave all other configurations as default.
+
+-Click on "Create Team".
+
+Configuring a Team allows to pull agents from different Departments to collaborate on specific tickets without changing departments assignments.
+Read more about Teams here: 
+https://docs.osticket.com/en/latest/Admin/Agents/Teams.html
 </p>
 <br />
 
 
 
 
-<h3>Step 5: Configure ticket creation Permissions</h3>
+<h3>Step 5: Verify permissions for ticket creation</h3>
 <p>
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
-swfddsfgdsag
+-From within the Admin panel, navigate to the "Settings" tab -> click on "Users".
+
+-Make sure the "Registration Method" box in unchecked. This will ensure that any end-user, including the one without registered accounts, can create their own tickets.
 </p>
 <br />
 
@@ -104,7 +135,21 @@ swfddsfgdsag
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
-swfddsfgdsag
+-From within the admin panel, navigate to the "Agents" tab -> click on "Add New Agent".
+
+-Create a name, email address, username.
+
+-To set the password, click on "Set Password" -> uncheck the box for "Send the agent a password reset email" -> set the password.
+
+-Under the "Access" tab, assign the first agent to the "SysAdmins" Primary Department, and select "rootuser" for the Role.
+
+-Under the "Teams" tab, select "Level II Support", and click on "Create".
+
+-Repeat the same process for a second agent, but create a different profile with different specifications (Account informations, Access specifications, Permissions, Teams).
+
+Configuring an agent allows them to manage tickets, respond to customer inquiries, and access specific help topics based on assigned roles and departments.
+Read more about Agents here: 
+https://docs.osticket.com/en/latest/Admin/Agents/Agents.html
 </p>
 <br />
 
