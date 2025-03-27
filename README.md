@@ -37,7 +37,7 @@ In this guided lab, we will configure osTicket settings, so it can be used prope
 
 <h3>Step 1: Login to osTicket</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/jSnJGrL.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
 -Back in your Windows VM, login to the admin/agent portal of osTicket: http://localhost/osTicket/scp/login.php. 
