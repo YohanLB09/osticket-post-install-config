@@ -185,10 +185,10 @@ https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html
 <p>
 -Navigate back to the Admin panel -> click on the "Manage" tab -> "SLA"-> "Add New SLA Plan".
 
--Specify the name, grace period, and schedule for 3 different SLA plans like so (leave other configurations as default):
-Name: "Sev-A" / Grace Period: "1 hour" / Schedule: "24/7" -> click on "Add Plan".
-Name: "Sev-B" / Grace Period: "4 hours" / Schedule: "24/7" -> click on "Add Plan".
-Name: "Sev-C" / Grace Period: "8 hours" / Schedule: Business Hours -> click on "Add Plan".
+-Specify the name, grace period (in hours), and schedule for 3 different SLA plans like so (leave other configurations as default):
+Name: "Sev-A" / Grace Period: "1" / Schedule: "24/7" -> click on "Add Plan".
+Name: "Sev-B" / Grace Period: "4" / Schedule: "24/7" -> click on "Add Plan".
+Name: "Sev-C" / Grace Period: "8" / Schedule: Business Hours -> click on "Add Plan".
 
 Configuring SLA (Service Level Agreements) allows to specify the time and response objectives for tickets based on priority, department, or help topic.
 Read more about SLA here: https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html
