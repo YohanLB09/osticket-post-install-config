@@ -90,6 +90,9 @@ Configuring a Role specifies what permissions the agent has access to for handli
 Configuring a Department in osTicket determines which types of tickets the agents in that department will handle. It ensures that tickets are routed to the right team based on their category.
 Read more about Departments here: 
 https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
+
+(pic)
+-Additionally, we need to delete the "Maintenance" Departement because we won't want tickets to be assigned to this department when practicing troubleshooting ticket handling in the next lab. 
 </p>
 <br />
 
