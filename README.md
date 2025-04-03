@@ -213,7 +213,8 @@ Read more about SLA here: https://docs.osticket.com/en/latest/Admin/Manage/SLA%2
 2) Topic: "Personal Computer Issues" / Parent Type: "Report a Problem"
 3) Topic: "Equipment Request" / Parent Type: "General Inquiry"
 4) Topic: "Password Reset" / Parent Type: "Report a Problem"
-5) Topic: "Other" / Parent Type: "General Inquiry"
+5) Topic: "Network issues" / Parent Type: "Report a Problem"
+6) Topic: "Other" / Parent Type: "General Inquiry"
 
 Configuring Help Topics in osTicket involves setting up predefined troubleshooting subjects that guide users when creating a ticket. This helps structure the ticketing process by allowing users to select the nature of their issue, ensuring it is categorized correctly without needing to understand the internal workflow of the support team.
 </p>
