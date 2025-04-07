@@ -12,7 +12,7 @@ In this guided lab, we will configure osTicket settings, so it can be used prope
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
-- Internet Information Services (IIS)
+- osTicket
 
 
 <h2>Operating Systems Used </h2>
