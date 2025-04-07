@@ -92,7 +92,7 @@ Read more about Departments here:
 https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
 
 (pic)
--Additionally, we need to delete the "Maintenance" Departement because we don't want tickets to be auto-assigned to this department when practicing troubleshooting ticket handling in the next lab. 
+-Additionally, we need to delete the "Maintenance" Departement to ensure that no tickets get auto-assigned to this department when practicing troubleshooting ticket handling in the next lab. 
 </p>
 <br />
 
