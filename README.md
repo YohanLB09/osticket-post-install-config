@@ -233,7 +233,7 @@ Configuring Help Topics in osTicket involves setting up predefined troubleshooti
 
 <h2>osTicket Configuraton Setup Completed!</h2>
 
-<b>We've successfully set up multiple agents with their respective departments, roles, and permissions. Additionally, we've configured SLAs (Service Level Agreements), help topics, and users. In the next lab found [here](https://github.com/YohanLB09/osticket-ticket-simulation), we will create and simulate different ticket handling scenarios using multiple agents and users. Next lab: https://github.com/YohanLB09/osticket-ticket-simulation/blob/main/README.md</b>
+<b>We've successfully set up multiple agents with their respective departments, roles, and permissions. Additionally, we've configured SLAs (Service Level Agreements), help topics, and users. In the next lab found [here](https://github.com/YohanLB09/osticket-ticket-simulation), we will create and simulate different ticket handling scenarios using multiple agents and users.</b>
 <br />
 <br />
 </p>
