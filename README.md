@@ -8,6 +8,8 @@
 In this guided lab, we will configure osTicket settings, so it can be used properly as a ticketing system. It consists of setting up multiple agents along with their departments, roles, and permissions. As well as, configuring SLAs (Service Level Agreements), help topics, and users.<br/>
 <br/>
 
+<br />This project is a continuation of [osTicket: Prerequisites & Installation](https://github.com/YohanLB09/osticket-prereqs-installation), so this project picks up where we left off.<br />
+
 <h2>Environments and Technologies</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -231,7 +233,7 @@ Configuring Help Topics in osTicket involves setting up predefined troubleshooti
 
 <h2>osTicket Configuraton Setup Completed!</h2>
 
-<b>We've successfully set up multiple agents with their respective departments, roles, and permissions. Additionally, we've configured SLAs (Service Level Agreements), help topics, and users. In the next lab, we will create and simulate different ticket handling scenarios using multiple agents and users. Next lab: https://github.com/YohanLB09/osticket-ticket-simulation/blob/main/README.md</b>
+<b>We've successfully set up multiple agents with their respective departments, roles, and permissions. Additionally, we've configured SLAs (Service Level Agreements), help topics, and users. In the next lab found [here](https://github.com/YohanLB09/osticket-ticket-simulation), we will create and simulate different ticket handling scenarios using multiple agents and users. Next lab: https://github.com/YohanLB09/osticket-ticket-simulation/blob/main/README.md</b>
 <br />
 <br />
 </p>
